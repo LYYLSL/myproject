@@ -3,9 +3,58 @@
     "configurations": [
       {
         "type": "java",
+        "name": "SingletonPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.singletonpattern.SingletonPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "PrototypePattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.prototypepattern.PrototypePattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FactoryPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.factorypattern.FactoryPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "BuilderPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.builderpattern.BuilderPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "AdapterPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.adapterpattern.AdapterPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "AbstractFactoryPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.abstractfactorypattern.AbstractFactoryPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FactoryPatternDemo",
+        "request": "launch",
+        "mainClass": "org.FactoryPattern.FactoryPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "Debug (Launch)",
         "request": "launch",
-        "mainClass": "org.example.Main",
+        "mainClass": "org.example.Main"
       }
     ]
   }
