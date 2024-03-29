@@ -7,7 +7,7 @@ public class SingleObject {
   
     //让构造函数为 private，这样该类就不会被实例化
     private SingleObject(){}
-    private String name="zwh";
+
   
     //获取唯一可用的对象
     public static SingleObject getInstance(){
@@ -15,6 +15,6 @@ public class SingleObject {
     }
   
     public void showMessage(){
-       System.out.println("Hello World!"+name);
+       System.out.println("Hello World!");
     }
  }

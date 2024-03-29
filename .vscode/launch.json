@@ -3,6 +3,62 @@
     "configurations": [
       {
         "type": "java",
+        "name": "ChainPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.chainofresponsibilitypattern.ChainPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "ProxyPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.proxypattern.ProxyPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FlyweightPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.flyweightpattern.FlyweightPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FacadePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.facadepattern.FacadePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "DecoratorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.decoratorpattern.DecoratorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CompositePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.compositepattern.CompositePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CriteriaPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.filterpattern.CriteriaPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "BridgePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.bridge.BridgePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "SingletonPattern",
         "request": "launch",
         "mainClass": "org.designpattern.singletonpattern.SingletonPattern",
