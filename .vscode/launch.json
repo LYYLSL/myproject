@@ -3,6 +3,139 @@
     "configurations": [
       {
         "type": "java",
+        "name": "TransferObjectPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.transferobjectpattern.TransferObjectPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "ServiceLocatorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.servicelocatorpattern.ServiceLocatorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "InterceptingFilterDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.interceptingfilterpattern.InterceptingFilterDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FrontControllerPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.frontcontrollerpattern.FrontControllerPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "DaoPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.daopattern.DaoPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CompositeEntityPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.compositeentitypattern.CompositeEntityPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "BusinessDelegatePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.businessdelegatepattern.BusinessDelegatePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "MVCPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.mvcpattern.MVCPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "VisitorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.visitorpattern.VisitorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "TemplatePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.templatepattern.TemplatePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "StrategyPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.strategypattern.StrategyPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "NullPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.nullobjectpattern.NullPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "StatePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.statepattern.StatePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "ObserverPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.observerpattern.ObserverPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "MementoPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.mementopattern.MementoPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "MediatorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.mediatorpattern.MediatorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "IteratorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.iteratorpattern.IteratorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "InterpreterPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.interpreterpattern.InterpreterPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CommandPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.commandpattern.CommandPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "ChainPatternDemo",
         "request": "launch",
         "mainClass": "org.designpattern.chainofresponsibilitypattern.ChainPatternDemo",
